@@ -198,7 +198,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			visibility: hidden;
-			width: 150%;
+			width: 105%;
 		}
 
 			#bg div.visible {
